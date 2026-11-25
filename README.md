@@ -44,7 +44,7 @@ Then just ask, or call a skill directly, for example `/excel-skills:clean-data c
 
 Download a skill's `.zip` from the [latest release](https://github.com/mubasher1111/excel-skills/releases/latest),
 then go to **Settings → Capabilities → Skills → Upload skill**. Upload one zip per skill.
-(Skills need code execution, which is on by default on paid plans.)
+(Skills need code execution to be turned on in Settings → Capabilities.)
 
 ### Requirements
 
