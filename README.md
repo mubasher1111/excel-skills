@@ -48,7 +48,7 @@ then go to **Settings → Capabilities → Skills → Upload skill**. Upload one
 
 ### Requirements
 
-The four skills with scripts need Python 3.9+ and `openpyxl`. Claude.ai already has both. On your
+The four skills with scripts need Python 3.10+ and `openpyxl`. Claude.ai already has both. On your
 own computer, if Claude reports that openpyxl is missing:
 
 ```bash
