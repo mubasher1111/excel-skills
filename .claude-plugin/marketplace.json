@@ -1,0 +1,15 @@
+{
+  "name": "zexcart",
+  "description": "Practical Claude plugins for business work, by ZexCart",
+  "owner": {
+    "name": "ZexCart",
+    "url": "https://zexcart.site"
+  },
+  "plugins": [
+    {
+      "name": "excel-skills",
+      "source": "./plugins/excel-skills",
+      "description": "Excel skills for Claude: clean messy sheets, write and fix formulas, compare files, build live summary reports and Pakistani payroll sheets"
+    }
+  ]
+}

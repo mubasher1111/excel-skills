@@ -1,0 +1,14 @@
+{
+  "name": "excel-skills",
+  "displayName": "Excel Skills",
+  "version": "1.0.0",
+  "description": "Excel skills for Claude: clean messy sheets, write and fix formulas, compare two files, build live summary reports, and make Pakistani payroll sheets with FBR tax",
+  "author": {
+    "name": "ZexCart",
+    "url": "https://zexcart.site"
+  },
+  "homepage": "https://zexcart.site/excel-skills/",
+  "repository": "https://github.com/mubasher1111/excel-skills",
+  "license": "MIT",
+  "keywords": ["excel", "spreadsheet", "accounting", "payroll", "data-cleaning", "pakistan"]
+}
